@@ -273,7 +273,7 @@ ollama serve
 }
 ```
 
-> **注意**：对于 embedding 模型，目前支持 `volcengine`（豆包）、`openai` 和 `jina` 提供商。对于 VLM 模型，我们支持三种提供商：`volcengine`、`openai` 和 `litellm`。``litellm` 提供商支持各种模型，包括 Anthropic (Claude)、DeepSeek、Gemini、Moonshot、Zhipu、DashScope、MiniMax、vLLM、Ollama 等。
+> **注意**：对于 embedding 模型，目前支持 `volcengine`（豆包）、`openai` 和 `jina` 提供商。对于 VLM 模型，我们支持三种提供商：`volcengine`、`openai` 和 `litellm`。`litellm` 提供商支持各种模型，包括 Anthropic (Claude)、DeepSeek、Gemini、Moonshot、Zhipu、DashScope、MiniMax、vLLM、Ollama 等。
 
 #### 服务器配置示例
 
